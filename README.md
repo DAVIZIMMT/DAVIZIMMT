@@ -71,9 +71,9 @@ Porque qualquer coisa funciona até chegar usuário suficiente para revelar o ca
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimtts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimtts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimtts&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimtts&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
@@ -83,23 +83,4 @@ Porque qualquer coisa funciona até chegar usuário suficiente para revelar o ca
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davimtts&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
