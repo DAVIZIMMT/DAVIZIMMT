@@ -76,8 +76,6 @@ Porque qualquer coisa funciona até chegar usuário suficiente para revelar o ca
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimtts&layout=compact&theme=tokyonight"/>
 </div>
 
-
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=davimtts&theme=tokyo-night"/>
