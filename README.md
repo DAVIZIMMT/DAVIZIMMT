@@ -73,7 +73,7 @@ Porque qualquer coisa funciona até chegar usuário suficiente para revelar o ca
 <div>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimtts&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimtts&layout=compact&theme=tokyonight"/>
+
 </div>
 
 <br><br>
