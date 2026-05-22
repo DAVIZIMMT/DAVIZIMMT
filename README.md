@@ -67,6 +67,9 @@ Porque qualquer coisa funciona até chegar usuário suficiente para revelar o ca
 
 <br/>
 <br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davimtts&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimtts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimtts&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
