@@ -1,23 +1,41 @@
-# Hello! I'm Shiori 👋
+# Olá! Eu sou Shiori 👋
 
 ```Web Developer```
 
-Back-end focused developer passionate about building structured and efficient systems.
+Desenvolvedor focado em back-end, arquitetura de sistemas e infraestrutura web.
 
-Currently working with:
+Gosto de entender como as coisas realmente funcionam por trás da interface:
+fluxo de requisições, estrutura de aplicações, comunicação entre serviços, bancos de dados, servidores, autenticação, DNS, SSL/TLS e organização de sistemas mais complexos.
+
+Atualmente estudo e desenvolvo projetos utilizando:
 - PHP & Laravel
 - MySQL
 - APIs & JSON
 - Git & GitHub
-- Apache, DNS and SSL/TLS basics
+- Apache & Linux
+- Arquitetura de Software
+- Engenharia de Software
+- Infraestrutura Web
 
-I enjoy understanding how systems work internally, from database architecture to request flow and server configuration.
+Não sigo um caminho tradicional de aprendizado.
+Grande parte do que aprendi veio de documentação, testes, fóruns, artigos técnicos, engenharia reversa de projetos, discussões técnicas e muitas horas explorando diferentes partes da internet atrás de informação útil.
 
-Always learning more about software architecture, backend engineering and scalable applications.
+Tenho interesse especial em:
+- Estruturação de sistemas
+- Back-end engineering
+- Arquitetura monolítica e APIs
+- Bancos de dados e modelagem
+- Infraestrutura e servidores
+- Segurança e fluxo de autenticação
+- Entender o “porquê” das tecnologias, não apenas usar ferramentas prontas
+
+Acredito que escrever código é só uma parte do desenvolvimento.
+O verdadeiro desafio é construir sistemas organizados, escaláveis e compreensíveis no longo prazo.
+Porque qualquer coisa funciona até chegar usuário suficiente para revelar o caos escondido.
 
 #
 
-### Connect with me!
+### Contato
 
 <a href="https://www.instagram.com/davi.mt62/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -29,7 +47,7 @@ Always learning more about software architecture, backend engineering and scalab
 
 #
 
-### Languages & Tools
+### Linguagens & Ferramentas
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -42,3 +60,16 @@ Always learning more about software architecture, backend engineering and scalab
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
